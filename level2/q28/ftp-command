@@ -1,0 +1,4 @@
+open 118.27.110.77
+user cpaw_user 5f4dcc3b5aa765d61d8327deb882cf99
+ls -al
+get .hidden_flag_file
