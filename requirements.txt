@@ -1,7 +1,9 @@
 certifi==2021.10.8
 charset-normalizer==2.0.12
+gmpy2==2.1.2
 idna==3.3
 lxml==4.8.0
+mpmath==1.2.1
 numpy==1.22.3
 oauthlib==3.2.0
 olefile==0.46
@@ -17,5 +19,6 @@ requests-oauthlib==1.3.1
 reverse-geocoder==1.5.1
 scipy==1.8.0
 six==1.16.0
+sympy==1.10.1
 tweepy==4.9.0
 urllib3==1.26.9
